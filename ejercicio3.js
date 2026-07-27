@@ -15,6 +15,7 @@ rl.question("Ingrese la cantidad de horas: " , function(horas){
     console.log(`${horas} horas equivalentes a ${minutos} minutos`);
 
     rl.close();
+    
 
 
 })
